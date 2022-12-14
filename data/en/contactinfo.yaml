@@ -1,0 +1,10 @@
+contactformaction: 'post-action'
+
+address:
+- line: '1 impasse des Promenades'
+- line: 'Résidence les Bastides'
+- line: '26110 Nyons'
+
+phone: '+33 6 75 41 82 35'
+
+email: 'meugnier.jacquot@gmail.com'

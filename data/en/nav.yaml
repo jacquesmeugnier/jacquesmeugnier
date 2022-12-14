@@ -1,0 +1,6 @@
+items:
+- title: 'Biographie'
+  url: '/generic-page'
+
+- title: 'Vision'
+  url: '/vision'
